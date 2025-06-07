@@ -1,0 +1,16 @@
+bearerToken
+AAAAAAAAAAAAAAAAAAAAAPy60AEAAAAASuy1r%2Bfx72aiTOdIL%2B0jgdF7W7k%3DOU0xVPZVw83zpvmcUugzDqXXuASmMS4XosSGuLDVYBQ9E4Nl0k
+
+
+Key
+J4klkaqFPOVVbChrokUyotYlD
+
+
+secret
+YaCrBON7Ceb85Z7eHxEp0l3Ydlqm92vJugmT9mkFrSB8KGa1kc
+
+acess token
+1318670865551286278-UyuZMvQBP1EoesxPXJ3mJUsy6GWtXi
+
+acess token secret
+Bdx2vmb6wbvWELfHHOAxHQQnj7o0eWODrGdtxa2vLI7Cl
