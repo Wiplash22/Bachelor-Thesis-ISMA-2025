@@ -1,2 +1,5 @@
 The sentiment analysis tool uses the Multilingual DistilBERT model (nlptown/bert-base-multilingual-uncased-sentiment) to analyze social media content. It collects 100 X posts via Twarc and 400 Sentiment140 tweets, preprocesses them by removing URLs and handling multilingual encoding (e.g., Japanese text), and classifies sentiments as Positive (≥3 stars) or Negative (<3 stars) with confidence scores (e.g., 92% for "Love this game!"). The tool runs on a standard laptop, outputs results to results.csv, and supports a brand monitoring framework with real-time potential via the X API.
+
 You will be seeing the Python code for analysing the sentiments with the distilbert and vader tools, the csv files which is used and given by output and graphs wich shows the comparison of the tool and sentiment distribution.
+
+There was one more file which is the sentiment140 dataset which is toog big in size even the zip file can't be added here.
